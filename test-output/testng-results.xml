@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="10148" started-at="2020-09-09T04:03:30Z" finished-at="2020-09-09T04:03:40Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="10148" started-at="2020-09-09T04:03:30Z" finished-at="2020-09-09T04:03:40Z">
+      <class name="com.actiTime.scripts.DemoA">
+        <test-method status="PASS" signature="testBrowser()[pri:0, instance:com.actiTime.scripts.DemoA@4034c28c]" name="testBrowser" duration-ms="10078" started-at="2020-09-09T04:03:30Z" finished-at="2020-09-09T04:03:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBrowser -->
+      </class> <!-- com.actiTime.scripts.DemoA -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
